@@ -1,0 +1,42 @@
+.navbar{
+    background-color:whitesmoke;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    
+}
+
+ul {
+    text-align: auto;
+    margin-right: 5%;
+    padding: 0;
+}
+
+
+
+.nav_item{
+ 
+    background-color: blueviolet;
+    /* margin-top:4; */
+    display: inline-block;
+    margin: 5px;
+    padding:2px 5px;
+    border-radius: 7px;
+    border: 1px solid rgb(185, 185, 185);
+    size: 15px;
+
+}
+a{
+  
+    text-decoration: none;
+    font-family: "Roboto";
+    font-size: 30px;
+    color:whitesmoke;
+    /* size: 20px; */
+    border-radius: 7px;
+    /* margin: 10px; */
+
+
+ 
+
+}
