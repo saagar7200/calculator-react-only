@@ -1,0 +1,12 @@
+.container{
+    /* background-color: blue;*/
+    background:rgb(91, 130, 175);
+    
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    margin-left: 30%;
+    width: 50%;
+    border-radius: 10px;
+}
